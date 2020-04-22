@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePageTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.375">
+  <properties />
+  
+  
+            <testcase name="verifyHarrowCouncilLogoIsDisplayed" time="0.183" classname="uk.harrow.gov.testsuite.HomePageTest" />
+                <testcase name="verifyServicesLinkIsDisplayed" time="0.098" classname="uk.harrow.gov.testsuite.HomePageTest" />
+                <testcase name="verifyLoginLinkIsDisplayed" time="0.094" classname="uk.harrow.gov.testsuite.HomePageTest" />
+      
+</testsuite>

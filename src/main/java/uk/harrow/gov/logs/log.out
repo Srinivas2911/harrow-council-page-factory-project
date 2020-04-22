@@ -1,0 +1,37 @@
+2020-04-19 19:04:634 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:577 INFO  HomePage :53 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-19 19:04:656 INFO  LoginPage :28 - Displaying Welcome Guest Text : [[ChromeDriver: chrome on WINDOWS (76f45c6bf12591a915cfedd89377427e)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:365 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:383 INFO  HomePage :53 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-19 19:04:477 INFO  LoginPage :28 - Displaying Welcome Guest Text : [[ChromeDriver: chrome on WINDOWS (d781f153917063f5c3d46318f116a0c6)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:571 INFO  LoginPage :33 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (d781f153917063f5c3d46318f116a0c6)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:667 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:515 INFO  HomePage :35 - Displaying The Icon : [[ChromeDriver: chrome on WINDOWS (6536f5d57c0c3f00056ebc7d8230ffe9)] -> xpath: //span[@class='icon icon-logo identity__logo-desktop']]
+2020-04-19 19:04:120 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:671 INFO  HomePage :41 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (39402661163055136e39fe828edfc273)] -> xpath: //span[@class='icon-fallback']]
+2020-04-19 19:04:964 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:445 INFO  HomePage :47 - Displaying Services Link : [[ChromeDriver: chrome on WINDOWS (06c15f07a31b827e2ba67d45b20261b3)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-19 19:04:817 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:154 INFO  HomePage :53 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-19 19:04:239 INFO  LoginPage :28 - Displaying Welcome Guest Text : [[ChromeDriver: chrome on WINDOWS (e9baf8bbe0d5f1f01aad3fed607933d4)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:339 INFO  LoginPage :33 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (e9baf8bbe0d5f1f01aad3fed607933d4)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:471 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:900 INFO  HomePage :35 - Displaying The Icon : [[ChromeDriver: chrome on WINDOWS (52aa324659d25462793779bc053cd7eb)] -> xpath: //span[@class='icon icon-logo identity__logo-desktop']]
+2020-04-19 19:04:734 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:227 INFO  HomePage :41 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (d9f620b2b0a17de18d3934b450931f45)] -> xpath: //span[@class='icon-fallback']]
+2020-04-19 19:04:735 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:703 INFO  HomePage :47 - Displaying Services Link : [[ChromeDriver: chrome on WINDOWS (799c464fa839025738e10c327e6dc49f)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-19 19:04:80 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:318 INFO  HomePage :53 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-19 19:04:414 INFO  LoginPage :28 - Displaying Welcome Guest Text : [[ChromeDriver: chrome on WINDOWS (c8de05f16991b2e2331bd034976306be)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:489 INFO  LoginPage :33 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (c8de05f16991b2e2331bd034976306be)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:182 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:724 INFO  HomePage :35 - Displaying The Icon : [[ChromeDriver: chrome on WINDOWS (0accec4c3e9f1fc9be3fd14825798b49)] -> xpath: //span[@class='icon icon-logo identity__logo-desktop']]
+2020-04-19 19:04:273 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:873 INFO  HomePage :41 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (ee697ea86b4d111b47dc2d9866770ef4)] -> xpath: //span[@class='icon-fallback']]
+2020-04-19 19:04:252 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:272 INFO  HomePage :47 - Displaying Services Link : [[ChromeDriver: chrome on WINDOWS (ca96aad2e9709e09c79113216abc2842)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-19 19:04:866 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:675 INFO  HomePage :53 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-19 19:04:738 INFO  LoginPage :28 - Displaying Welcome Guest Text : [[ChromeDriver: chrome on WINDOWS (a0a2a65c1a18ab0234d47ea99c86cc66)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-19 19:04:809 INFO  LoginPage :33 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (a0a2a65c1a18ab0234d47ea99c86cc66)] -> xpath: //li[@class='navbar-text myprofile_salutation']]

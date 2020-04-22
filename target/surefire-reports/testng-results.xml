@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Displaying The Icon [[ChromeDriver: chrome on WINDOWS (0fed69428f5f0d678ed0a227822543e3)] -> xpath: //span[@class='icon icon-logo identity__logo-desktop']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Displaying The Login Link [[ChromeDriver: chrome on WINDOWS (520fa0d3ac08793c149f9317adb758ae)] -> xpath: //span[@class='icon-fallback']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Services Link [[ChromeDriver: chrome on WINDOWS (bff7d05a200f76cb4ec719cc34f13cf4)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //span[@class='icon-fallback']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Welcome Guest Text [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //li[@class='navbar-text myprofile_salutation']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Getting Welcome Guest Text [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //li[@class='navbar-text myprofile_salutation']]<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="76866" started-at="2020-04-19T19:40:32 BST" finished-at="2020-04-19T19:41:49 BST">
+    <groups>
+      <group name="regression">
+        <method signature="LoginTest.verifyUserIsAbleToNavigatetoLoginPage()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="verifyUserIsAbleToNavigatetoLoginPage" class="uk.harrow.gov.testsuite.LoginTest"/>
+      </group> <!-- regression -->
+      <group name="Regression">
+        <method signature="HomePageTest.verifyServicesLinkIsDisplayed()[pri:2, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyServicesLinkIsDisplayed" class="uk.harrow.gov.testsuite.HomePageTest"/>
+      </group> <!-- Regression -->
+      <group name="smoke">
+        <method signature="HomePageTest.verifyLoginLinkIsDisplayed()[pri:1, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyLoginLinkIsDisplayed" class="uk.harrow.gov.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyServicesLinkIsDisplayed()[pri:2, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyServicesLinkIsDisplayed" class="uk.harrow.gov.testsuite.HomePageTest"/>
+        <method signature="LoginTest.verifyUserIsAbleToNavigatetoLoginPage()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="verifyUserIsAbleToNavigatetoLoginPage" class="uk.harrow.gov.testsuite.LoginTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="HomePageTest.verifyHarrowCouncilLogoIsDisplayed()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyHarrowCouncilLogoIsDisplayed" class="uk.harrow.gov.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyLoginLinkIsDisplayed()[pri:1, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyLoginLinkIsDisplayed" class="uk.harrow.gov.testsuite.HomePageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="76866" started-at="2020-04-19T19:40:32 BST" finished-at="2020-04-19T19:41:49 BST">
+      <class name="uk.harrow.gov.testsuite.HomePageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="openBrowser" is-config="true" duration-ms="14347" started-at="2020-04-19T19:40:32 BST" finished-at="2020-04-19T19:40:46 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUPMethod()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="setUPMethod" is-config="true" duration-ms="49" started-at="2020-04-19T19:40:46 BST" finished-at="2020-04-19T19:40:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUPMethod -->
+        <test-method status="PASS" signature="verifyHarrowCouncilLogoIsDisplayed()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyHarrowCouncilLogoIsDisplayed" duration-ms="178" started-at="2020-04-19T19:40:46 BST" finished-at="2020-04-19T19:40:46 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Displaying The Icon [[ChromeDriver: chrome on WINDOWS (0fed69428f5f0d678ed0a227822543e3)] -> xpath: //span[@class='icon icon-logo identity__logo-desktop']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHarrowCouncilLogoIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="tearDown" is-config="true" duration-ms="1532" started-at="2020-04-19T19:40:46 BST" finished-at="2020-04-19T19:40:48 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="openBrowser" is-config="true" duration-ms="14011" started-at="2020-04-19T19:40:48 BST" finished-at="2020-04-19T19:41:02 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUPMethod()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="setUPMethod" is-config="true" duration-ms="10" started-at="2020-04-19T19:41:02 BST" finished-at="2020-04-19T19:41:02 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUPMethod -->
+        <test-method status="PASS" signature="verifyLoginLinkIsDisplayed()[pri:1, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyLoginLinkIsDisplayed" duration-ms="105" started-at="2020-04-19T19:41:02 BST" finished-at="2020-04-19T19:41:02 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Displaying The Login Link [[ChromeDriver: chrome on WINDOWS (520fa0d3ac08793c149f9317adb758ae)] -> xpath: //span[@class='icon-fallback']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginLinkIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="tearDown" is-config="true" duration-ms="1224" started-at="2020-04-19T19:41:02 BST" finished-at="2020-04-19T19:41:03 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="openBrowser" is-config="true" duration-ms="15039" started-at="2020-04-19T19:41:03 BST" finished-at="2020-04-19T19:41:18 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUPMethod()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="setUPMethod" is-config="true" duration-ms="5" started-at="2020-04-19T19:41:18 BST" finished-at="2020-04-19T19:41:18 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUPMethod -->
+        <test-method status="PASS" signature="verifyServicesLinkIsDisplayed()[pri:2, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="verifyServicesLinkIsDisplayed" duration-ms="92" started-at="2020-04-19T19:41:18 BST" finished-at="2020-04-19T19:41:18 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Displaying Services Link [[ChromeDriver: chrome on WINDOWS (bff7d05a200f76cb4ec719cc34f13cf4)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyServicesLinkIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.harrow.gov.testsuite.HomePageTest@646d64ab]" name="tearDown" is-config="true" duration-ms="1500" started-at="2020-04-19T19:41:18 BST" finished-at="2020-04-19T19:41:20 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.harrow.gov.testsuite.HomePageTest -->
+      <class name="uk.harrow.gov.testsuite.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="openBrowser" is-config="true" duration-ms="12992" started-at="2020-04-19T19:41:20 BST" finished-at="2020-04-19T19:41:33 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUPMethod()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="setUPMethod" is-config="true" duration-ms="7" started-at="2020-04-19T19:41:33 BST" finished-at="2020-04-19T19:41:33 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUPMethod -->
+        <test-method status="PASS" signature="verifyUserIsAbleToNavigatetoLoginPage()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="verifyUserIsAbleToNavigatetoLoginPage" duration-ms="14568" started-at="2020-04-19T19:41:33 BST" finished-at="2020-04-19T19:41:47 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //span[@class='icon-fallback']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Welcome Guest Text [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //li[@class='navbar-text myprofile_salutation']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Getting Welcome Guest Text [[ChromeDriver: chrome on WINDOWS (8966d1995e814e3396f55a46311e2427)] -> xpath: //li[@class='navbar-text myprofile_salutation']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToNavigatetoLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.harrow.gov.testsuite.LoginTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="1080" started-at="2020-04-19T19:41:47 BST" finished-at="2020-04-19T19:41:49 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.harrow.gov.testsuite.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
